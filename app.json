@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Séries TVmaze",
+    "slug": "checkpoint3-tvmaze",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.checkpoint.tvmaze" }
+  }
+}
